@@ -65,6 +65,7 @@ python -m pip install pipwin
 
 3:
 python -m pipwin install pyaudio
+3. Kod hata verirse bir sonraki aşamaya geçip çalıştırmayı deneyin.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ADIM 5 — API Anahtarını Al
