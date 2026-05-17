@@ -56,6 +56,7 @@ VS Code'da terminali aç (Ctrl+J) ve şunu yapıştır:
 
 1:
 python -m pip install google-genai psutil Pillow requests pyperclip mss SpeechRecognition
+İlk kod çaluşmazsa alternatif versiyonu: py -3.12 -m pip install google-genai psutil Pillow requests pyperclip mss SpeechRecognition PyAudio
 
 Kurulum birkaç dakika sürebilir, bekle.
 
