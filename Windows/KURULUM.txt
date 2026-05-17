@@ -54,13 +54,19 @@ ADIM 4 — Paketleri Kur
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 VS Code'da terminali aç (Ctrl+J) ve şunu yapıştır:
 
-  py -3.12 -m pip install google-genai psutil Pillow requests pyperclip mss SpeechRecognition PyAudio
+1:
+python -m pip install google-genai psutil Pillow requests pyperclip mss SpeechRecognition
 
 Kurulum birkaç dakika sürebilir, bekle.
 
+2:
+python -m pip install pipwin
+
+3:
+python -m pipwin install pyaudio
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ADIM 5 — API Anahtarını Gir
+ADIM 5 — API Anahtarını Al
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Ücretsiz Gemini API anahtarı almak için:
   https://aistudio.google.com → Get API Key → Create API Key
@@ -78,6 +84,7 @@ Veya F5 tuşuna bas (otomatik Python 3.12 ile çalışır).
 
 JARVIS penceresi açılırsa kurulum tamamdır!
 
+API anahtarını girip kaydet!
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SIK KARŞILAŞILAN HATALAR
