@@ -1,5 +1,9 @@
-# Kurulum Videoları
+# J.A.R.V.I.S - macOS
 
-- [Mac Kurulum Videosu](https://youtu.be/6D136kF5dbs)
-- [Windows Kurulum Videosu](https://youtu.be/l8Ji8vLGJX4)
-- [Hata Alma ve Geliştirme](https://youtube.com/shorts/k19F0_xqfM4?feature=share)
+Tony Stark-in JARVIS-inden ilham alan macOS ucun AI komekci.
+
+## Qurashdrima
+1. Python 3 yukle
+2. cd Mac/jarvis
+3. bash setup.sh
+4. Gemini API acarini daxil et
